@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DownloadTask.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B189647A6D10503DC833BEE9E8433A13978FB2BB</string>
+				<key>dateExpires</key>
+				<string>23/06/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B189647A6D10503DC833BEE9E8433A13978FB2BB</string>
+						<key>dateExpires</key>
+						<string>23/06/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CircleProgressView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RTNS5DHP2J</string>
+						<key>name</key>
+						<string>Goodnesses</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>RTNS5DHP2J.com..DownloadTask</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>RTNS5DHP2J</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>RTNS5DHP2J.com..DownloadTask</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DownloadTask.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>df38771b-8e3f-4d8c-9567-a9a0fcfc0880</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>RTNS5DHP2J</string>
+				<key>name</key>
+				<string>Goodnesses</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
